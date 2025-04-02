@@ -1,2 +1,2 @@
 # ai-startup-website
-AI Startup Website for DevOps project 
+This is my first repository as a DevOps engineer
