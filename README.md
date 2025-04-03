@@ -11,6 +11,9 @@ Download the appropriate version for your operating system (Windows, macOS, or L
 
 <img width="956" alt="git download" src="https://github.com/user-attachments/assets/ce888afa-9fcc-4fb3-bbc7-39ec2de666fd" />
 
+<img width="959" alt="Git version and configuration" src="https://github.com/user-attachments/assets/9be54d47-a306-42e0-9bb5-6b6af460f9ff" />
+
+
 Once installed, open a terminal or command prompt and verify the installation by running: git --version
 This should display the installed version of Git.
 
@@ -53,6 +56,7 @@ create new branchs and index.html files for Tom and Jerry work flow
 
 <img width="680" alt="git commit for jerry" src="https://github.com/user-attachments/assets/0104f559-9503-4874-976e-7832780f7f3d" />
 
+<img width="812" alt="9 Push_to_remote" src="https://github.com/user-attachments/assets/85f06de1-ee51-4dd1-a386-86a9be1c5086" />
 
 
 
