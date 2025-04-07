@@ -58,6 +58,35 @@ create new branchs and index.html files for Tom and Jerry work flow
 
 <img width="812" alt="9 Push_to_remote" src="https://github.com/user-attachments/assets/85f06de1-ee51-4dd1-a386-86a9be1c5086" />
 
+I will be creating a pull request for the Tom and Jerry workflow and merging it into the main branch
+
+<img width="764" alt="vscode git commands" src="https://github.com/user-attachments/assets/5f05333f-f6b6-4380-9d07-a3845f66ab95" />
+
+
+<img width="652" alt="git command 2" src="https://github.com/user-attachments/assets/8986753f-a3d6-4190-9957-b0f52c2d274d" />
+
+<img width="663" alt="git command 3" src="https://github.com/user-attachments/assets/f4a862a2-e24e-4802-ae0d-d272edcf8ff7" />
+
+<img width="955" alt="update and pull request for update navigation" src="https://github.com/user-attachments/assets/1664d3e2-d643-4cbc-a156-5cbeb8680032" />
+
+<img width="944" alt="closed pull request" src="https://github.com/user-attachments/assets/f4a5e96e-76e5-4994-af9f-2a181da13fba" />
+
+<img width="955" alt="Git branch" src="https://github.com/user-attachments/assets/fafc04ce-734e-400e-9e1c-20d974a49a31" />
+
+<img width="953" alt="about us pull request" src="https://github.com/user-attachments/assets/b41fa883-0154-4c7a-a71a-69a3b4cd79d0" />
+
+<img width="952" alt="update navigation pull request" src="https://github.com/user-attachments/assets/571c8dd7-5e35-467c-9261-f4f2b66daca4" />
+
+The workflow was merged into the main branch.
+
+
+
+
+
+
+
+
+
 
 
 
